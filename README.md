@@ -10,7 +10,7 @@ Create Leaflet maps with a linked Google Sheets template.
 
 ## Demo
 - Leaflet Map https://cidco.github.io/leaflet-maps-with-google-sheets/
-- Google Sheet template https://docs.google.com/spreadsheets/d/1ZxvU8eGyuN9M8GxTU9acKVJv70iC3px_m3EVFsOHN9g/edit#gid=0
+- Google Sheet template https://docs.google.com/spreadsheets/d/1peO4Pm29PJTsKehVKr4hc8s5AXnGue9vPNXXvONs__4/edit#gid=0
 
 ## Create your own
 - Fork/copy this code repo and publish with GitHub Pages
